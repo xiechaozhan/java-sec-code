@@ -1,4 +1,6 @@
 # Java Sec Code
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxiechaozhan%2Fjava-sec-code.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxiechaozhan%2Fjava-sec-code?ref=badge_shield)
+
 
 
 Java sec code is a very powerful and friendly project for learning Java vulnerability code.
@@ -210,3 +212,7 @@ If you like the poject, you can donate to support me. With your support, I will 
 Scan the QRcode to support `Java sec code`.
 
 <img title="Alipay QRcode" src="https://aliyun-testaaa.oss-cn-shanghai.aliyuncs.com/alipay_qr.png" width="200">
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxiechaozhan%2Fjava-sec-code.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxiechaozhan%2Fjava-sec-code?ref=badge_large)
